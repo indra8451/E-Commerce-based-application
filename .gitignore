@@ -1,0 +1,14 @@
+# Ignore class files
+*.class
+
+# Ignore compiled output directory
+/bin/
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# Ignore logs, temp files, etc.
+*.log
+*.tmp
